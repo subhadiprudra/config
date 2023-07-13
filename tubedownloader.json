@@ -1,3 +1,5 @@
 {
-    "devices":"all"
+    "devices":"all",
+    "version":5,
+    "review":false
 }
